@@ -30,3 +30,5 @@ This project involves a comprehensive analysis of New York City Yellow Taxi trip
 - Mapped ride density by pickup location using NYC Taxi Zone shapefiles.
 - Prepared data for interactive or static choropleth maps to highlight high-demand areas.
 
+#### Output:
+The project produces a cleaned, enriched dataset ready for further modeling or visualization tasks, along with insights into rider behavior and taxi usage patterns in NYC.
